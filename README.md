@@ -1,6 +1,6 @@
 # MixtureModels.jl
 
-Utilities for fitting mixture models to data extending [Distributions.jl](https://github.com/SciML/Distributions.jl). This is a new package; at the moment it implements the [Expectation-Maximisation algorithm](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm) to fit mixture distributions to data using Maximum Likelihood Estimation (MLE). Suggestions and feedback very welcome.
+Utilities for fitting mixture models to data extending [Distributions.jl](https://github.com/JuliaStats/Distributions.jl). This is a new package; at the moment it implements the [Expectation-Maximisation algorithm](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm) to fit mixture distributions to data using Maximum Likelihood Estimation (MLE). Suggestions and feedback very welcome.
 
 ## Usage:
 
